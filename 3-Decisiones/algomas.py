@@ -1,1 +1,0 @@
-print("Soy parte del archivo algomas.py")
