@@ -1,0 +1,10 @@
+¿Qué voy a aprender con esta actividad?
+Esta es una actividad de evaluación que te permitirá medir qué tan bien puedes resolver un problema de programación por ti mismo.
+
+¿Qué tengo que hacer?
+Realiza el ejercicio de programación que se encuentra en esta actividad.
+¿Dónde y cómo la entrego?
+En esta actividad sube el archivo .py que contiene el código que realizaste y el archivo que contiene el screenshot en el que se puede ver la ejecución de tu programa .png o .jpg
+
+Ejercicios de programación
+@Maestro: incluye aquí la descripción o la liga a el o los ejercicios que realizará el estudiante como quiz.
