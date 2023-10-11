@@ -1,0 +1,2 @@
+robot,perro
+esfera,color
